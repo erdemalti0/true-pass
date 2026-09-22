@@ -63,6 +63,11 @@ Metric weights and the true-pass threshold, whether the chain check is a bonus o
 the xG decay factor, channel weights in the cosine stage, and whether goalkeeper position deserves
 its own metric.
 
+## License
+
+Documentation and diagrams: CC BY-NC-SA 4.0. Source code (when added): PolyForm Noncommercial
+1.0.0. Commercial use requires a separate agreement — see [LICENSE.md](LICENSE.md).
+
 ---
 
 Yusuf Erdem Altinsoy · [GitHub](https://github.com/erdemalti0) ·
